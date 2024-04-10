@@ -1,0 +1,230 @@
+[
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "Paris",
+      "Lyon",
+      "Marseille",
+      "Bordeaux"
+    ],
+    "difficulty" : 1,
+    "question" : "Quelle est la capitale de la France ?",
+    "category" : "Géographie"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "difficulty" : 2,
+    "question" : "Qui est l'auteur de '1984' ?",
+    "category" : "Littérature"
+  },
+  {
+    "correctAnswer" : 2,
+    "answers" : [
+      "Or",
+      "Osmium",
+      "Oxygène",
+      "Oganesson"
+    ],
+    "difficulty" : 1,
+    "question" : "Quel est l'élément chimique qui a pour symbole 'O' ?",
+    "category" : "Science"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "1969",
+      "1972",
+      "1966",
+      "1970"
+    ],
+    "difficulty" : 2,
+    "question" : "En quelle année Neil Armstrong a-t-il marché sur la Lune ?",
+    "category" : "Histoire"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "Java",
+      "Swift",
+      "C#",
+      "Kotlin"
+    ],
+    "difficulty" : 3,
+    "question" : "Quel langage de programmation est principalement utilisé pour le développement d'applications iOS ?",
+    "category" : "Technologie"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "Le Nil",
+      "L'Amazone",
+      "Le Yangtsé",
+      "Le Mississippi"
+    ],
+    "difficulty" : 2,
+    "question" : "Quelle est la plus longue rivière du monde ?",
+    "category" : "Géographie"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "Vincent Van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Leonardo Da Vinci"
+    ],
+    "difficulty" : 1,
+    "question" : "Qui a peint 'La Nuit étoilée' ?",
+    "category" : "Art"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "Le Vatican",
+      "Monaco",
+      "Nauru",
+      "Tuvalu"
+    ],
+    "difficulty" : 1,
+    "question" : "Quel est le plus petit pays du monde ?",
+    "category" : "Géographie"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "J.K. Rowling",
+      "C.S. Lewis"
+    ],
+    "difficulty" : 2,
+    "question" : "Qui a écrit 'Le Seigneur des Anneaux' ?",
+    "category" : "Littérature"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "difficulty" : 1,
+    "question" : "Quel est le nombre de planètes dans notre système solaire ?",
+    "category" : "Science"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "difficulty" : 2,
+    "question" : "Qui était le premier président des États-Unis ?",
+    "category" : "Histoire"
+  },
+  {
+    "correctAnswer" : 2,
+    "answers" : [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "TCP"
+    ],
+    "difficulty" : 3,
+    "question" : "Quel protocole Internet est utilisé pour envoyer des courriels ?",
+    "category" : "Technologie"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "Paris",
+      "Venise",
+      "New York",
+      "Barcelone"
+    ],
+    "difficulty" : 1,
+    "question" : "Quelle ville est connue comme la 'Ville de l'Amour' ?",
+    "category" : "Géographie"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Pyotr Ilyich Tchaikovsky"
+    ],
+    "difficulty" : 1,
+    "question" : "Qui a composé la 5ème Symphonie ?",
+    "category" : "Musique"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "Le cœur",
+      "Le foie",
+      "La peau",
+      "Le cerveau"
+    ],
+    "difficulty" : 2,
+    "question" : "Quel est l'organe humain capable de régénérer son tissu ?",
+    "category" : "Science"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "100 ans",
+      "116 ans",
+      "101 ans",
+      "99 ans"
+    ],
+    "difficulty" : 3,
+    "question" : "Quelle est la durée de la Guerre de Cent Ans ?",
+    "category" : "Histoire"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "1",
+      "0",
+      "-1",
+      "null"
+    ],
+    "difficulty" : 1,
+    "question" : "En programmation, quelle valeur est généralement associée au 'booléen faux' ?",
+    "category" : "Technologie"
+  },
+  {
+    "correctAnswer" : 0,
+    "answers" : [
+      "Mali",
+      "Maroc",
+      "Égypte",
+      "Éthiopie"
+    ],
+    "difficulty" : 2,
+    "question" : "Dans quel pays se trouve la ville de Tombouctou ?",
+    "category" : "Géographie"
+  },
+  {
+    "correctAnswer" : 1,
+    "answers" : [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Benjamin Franklin",
+      "Alessandro Volta"
+    ],
+    "difficulty" : 1,
+    "question" : "Qui a inventé l'ampoule électrique ?",
+    "category" : "Histoire"
+  }
+]
